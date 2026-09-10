@@ -6,7 +6,7 @@ const archetypes = [
   {
     name: "Duck Prod.",
     role: "System Architect",
-    desc: "Lucas (Duck), productor musical desde 2022 y artífice de la ingeniería sonora, producción ejecutiva y management del proyecto.",
+    desc: "Lucas (Duck Prod.) — productor y arquitecto técnico desde 2022. Diseña la infraestructura sonora, mezcla y dirección ejecutiva del ecosistema Belentani. Construye el puente entre ejecución humana y síntesis artificial: ingeniería de audio, pipelines de distribución y la Cerca de Datos que protege la soberanía del canon.",
   },
   {
     name: "San Pedro",

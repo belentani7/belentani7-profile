@@ -74,9 +74,9 @@ export const BELENTANI_MASTER_DOSSIER = {
       alias: "El Arquitecto",
       role: "Productor Ejecutivo y Creador Técnico",
       biography: [
-        "Productor musical activo desde 2022, responsable de la arquitectura de sonido y mezcla.",
-        "Diseñó la infraestructura que permite la convivencia entre Duck y Belentani.",
-        "Mantiene el control de los nodos de distribución y el rigor técnico del proyecto.",
+        "Productor y arquitecto técnico activo desde 2022: ingeniería de audio, mezcla y dirección ejecutiva.",
+        "Diseñó la infraestructura que permite la convivencia entre Duck y Belentani: pipelines de distribución, Cerca de Datos y protocolos de transmisión.",
+        "Mantiene el control soberano de los nodos de distribución y el rigor técnico del ecosistema.",
       ],
       traits: ["Metódico", "Invisible", "Vanguardista", "Exigente"],
       status: "Operando desde el Estudio Central",
